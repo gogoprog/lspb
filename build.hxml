@@ -1,0 +1,4 @@
+-cp src
+-python build/lspb.py
+lspb.Main
+-lib urxvt-pixbuf
