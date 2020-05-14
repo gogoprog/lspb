@@ -1,4 +1,4 @@
-# lsbp
+# lspb
 
 List images in urxvt pixbuf
 
